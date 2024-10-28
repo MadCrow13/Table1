@@ -1,0 +1,42 @@
+table {
+    text-align: left;
+}
+
+th {
+    background: rgb(160, 9, 183);
+    padding: 20px;
+    font-family: roboto;
+    text-transform: capitalize;
+    color: white;
+    height: 20px;
+    font-size: 28px;
+    text-align: left 
+}
+
+.size {
+    width: 250px;
+}
+
+.size-1 {
+    width: 350px;
+}
+
+.size-2 {
+    width: 200px;
+}
+
+
+td {
+    background: rgb(255, 180, 193);
+    color: white;
+    font-family: Caveat;
+    font-size: 28px;
+    padding: 15px;
+    height: 20px;
+}
+
+.pink {
+    background: palevioletred;
+}
+
+
